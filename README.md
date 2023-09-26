@@ -1,2 +1,3 @@
 # netflixhomepage
-I had basically created the netflix homepage with some changes in it.
+This repository contains the source code for a dynamic website used as a Netflix Home Page.
+Netflix_Home_Page_Using_HTML_And_CSS: This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
